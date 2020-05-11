@@ -272,7 +272,7 @@
 		B423AE101C0DF76A0004A2F1 = {
 			isa = PBXGroup;
 			children = (
-				B423AE251C0DF7950004A2F1 /* SSZipArchive */,
+				B423AE251C0DF7950004A2F1 /* Sources */,
 				3775F4242276C5C000A1840B /* Frameworks */,
 				B423AE1B1C0DF76A0004A2F1 /* Products */,
 			);
@@ -289,7 +289,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B423AE251C0DF7950004A2F1 /* SSZipArchive */ = {
+		B423AE251C0DF7950004A2F1 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				B423AE3D1C0DF7950004A2F1 /* Info.plist */,
@@ -299,7 +299,7 @@
 				93CE5D5D227FE5C50003464F /* SSZipCommon.h */,
 				B423AE4A1C0DF7950004A2F1 /* ZipArchive.h */,
 			);
-			path = SSZipArchive;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		B423AE3E1C0DF7950004A2F1 /* minizip */ = {
